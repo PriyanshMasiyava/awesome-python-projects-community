@@ -1,4 +1,4 @@
-# 🐍 Python Projects Collection
+# 🐍 Awesome Python Projects Community
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-### 🚀 A Community-Driven Open Source Repository for Python Developers
+### 🚀 A Community-Driven Open Source Repository for Python Projects, Learning, and Collaboration
 
 **Learn • Build • Practice • Contribute • Grow Together**
 
@@ -156,7 +156,7 @@ Click the **Fork** button.
 ### 2. Clone your Fork
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Python_Projects.git
+git clone https://github.com/YOUR_USERNAME/awesome-python-projects-community.git
 ```
 
 ---
@@ -176,16 +176,10 @@ Create a properly named folder.
 Example:
 
 ```
-Python_Projects/
-│
-├── Beginner/
-│   └── Calculator/
-│
-├── Intermediate/
-│   └── Expense Tracker/
-│
-└── Advanced/
-    └── Chat Application/
+Python/
+├── 01_Beginner/
+├── 02_Intermediate/
+└── 03_Advanced/
 ```
 
 ---
@@ -230,17 +224,43 @@ Before submitting your project:
 
 ---
 
+# ✅ Project Submission Checklist
+
+Before creating a Pull Request:
+
+- Project works correctly
+- README.md included
+- requirements.txt included (if required)
+- Folder name is meaningful
+- Project placed in the correct category
+- No unnecessary files included
+
+# 📂 Folder Naming Rules
+
+✅ Calculator
+
+✅ Weather App
+
+✅ Expense Tracker
+
+✅ Chat Application
+
+❌ Project1
+
+❌ Task2
+
+❌ PythonApp
+
 # 📁 Recommended Project Structure
 
 ```
 Project Name/
 │
 ├── README.md
-├── requirements.txt
 ├── main.py
+├── requirements.txt
 ├── assets/
-├── images/
-└── source_code/
+└── images/
 ```
 
 ---
@@ -260,6 +280,18 @@ Please
 🤝 Contribute to it
 
 ---
+
+# 📊 Repository Goals
+
+⭐ 100+ Beginner Projects
+
+⭐ 50+ Intermediate Projects
+
+⭐ 25+ Advanced Projects
+
+⭐ Global Open Source Contributors
+
+⭐ Beginner Friendly Environment
 
 # 💡 Why Contribute?
 
@@ -292,26 +324,35 @@ You are free to use, modify, and distribute this repository according to the lic
 
 ---
 
+
+
 # 👨‍💻 Repository Maintainer
 
 <div align="center">
 
-# 👨‍💻 Maintained by Priyansh Masiyava
+## Priyansh Masiyava
+
+🎓 **B.Tech Computer Engineering Student**  
+🐍 **Python Developer** • 🌐 **Open Source Enthusiast** • 💻 **Web Developer**
+
+Passionate about building beginner-friendly open-source projects that help developers learn, collaborate, and grow together.
 
 [![GitHub](https://img.shields.io/badge/GitHub-PriyanshMasiyava-181717?style=for-the-badge&logo=github)](https://github.com/PriyanshMasiyava)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyansh%20Masiyava-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyansh-masiyava/)
 
-⭐ **If you like this repository, don't forget to Star it!**
+### 🌟 Support This Repository
 
-🚀 Let's build the largest open-source Python Projects Collection together!
+If you find this repository helpful, please consider:
 
-</div>
-<div align="center">
+⭐ **Star** this repository  
+🍴 **Fork** it  
+🤝 **Contribute** your Python projects  
+📢 **Share** it with the Python community
 
-## ⭐ If you like this repository, don't forget to Star it!
+Together, let's build one of the largest open-source collections of Python projects for learners and developers worldwide.
 
-### Happy Coding! 🚀
+### 🚀 Happy Coding!
 
 Made with ❤️ for the Python Community.
 
