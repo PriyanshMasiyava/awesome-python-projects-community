@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+database/*.db
+
+exports/*.pdf
+exports/*.csv
+
+.vscode/
+.idea/
+
+.env
